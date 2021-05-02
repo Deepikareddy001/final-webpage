@@ -9,7 +9,7 @@ let loadImage = (src, callback) => {
 };
 
 let imagePath = (frameNumber, animation) => {
-   return "https://github.com/DevrajVisesh/visesh-tekken-bc/blob/master/images/" + animation + frameNumber + ".png/?raw=true";
+   return "https://github.com/Deepikareddy001/final-webpage/blob/master/images/" + animation + frameNumber + ".png/?raw=true";
 };
 
 
